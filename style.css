@@ -190,9 +190,6 @@ picture {
   }
 
   .quicker{
-    grid-row-start: 1;
-    grid-row-end: 2;
-    background: #bebebe !important;
     .bold{
       font-size: var(--fs35) !important;
     }
